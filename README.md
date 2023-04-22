@@ -1,2 +1,9 @@
-# cinandofestivals
-Code and data to replicate the analyses in the "Quantifying the global film festival circuit" paper
+**Quantifying the global film festival circuit: Networks, diversity, and public value creation**
+<br> by Vejune Zemaityte, Andres Karjus, Ulrike Rohn, Maximilian Schich, Indrek Ibrus
+
+To replicate the analyses and recreate the graphs, follow these steps:
+- install R (4.2.1 or higher; we recommend using RStudio as the IDE)
+- unpack the data and place it in a folder of choice along with the script files (or the folder reported by `getwd()` in R)
+- open the quantifying_festivalcircuit.R file in R/RStudio.
+- indicate the chosen folder using `setwd("/path")` in R if not using the default working directory, or define full paths to the data and scripts file
+- follow the steps in quantifying_festivalcircuit.R: source the scripts (this also installs packages if missing), and run all lines in the file to recreate the analyses and graphs; the graphs will be exported into the working directory.
