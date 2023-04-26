@@ -5,9 +5,9 @@ Preprint available here: [link]
 
 To replicate the analyses and recreate the graphs, follow these steps:
 - Install R (4.2.1 or higher; we recommend using RStudio as the IDE)
-- Unpack the data (csv files) from the zip file here, or download them from the persistent repository at https://doi.org/10.6084/m9.figshare.22682794
+- Download the data from the persistent repository at https://doi.org/10.6084/m9.figshare.22682794
 - This is the sample of data used in the paper, sourced from the Cinando database. We have carefully anonymized all internal Cinando technical ID numbers, and removed identifying information such as names of people and companies.
-- Place all files in a folder of choice along with the R script files (or the folder reported by `getwd()` in R). 
+- Place all files from figshare in a folder of choice along with the R script files (or the folder reported by `getwd()` in R). 
 - Open the `quantifying_festivalcircuit.R` file in R or RStudio
 - Follow the steps in `quantifying_festivalcircuit.R`: source the functions R script file (this also installs packages if missing), and run all lines in the file to recreate the analyses and graphs; the graphs will be exported into the working directory.
 
