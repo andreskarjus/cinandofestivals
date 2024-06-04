@@ -1,7 +1,7 @@
 **Quantifying the global film festival circuit: Networks, diversity, and public value creation**
 <br> by Vejune Zemaityte, Andres Karjus, Ulrike Rohn, Maximilian Schich, Indrek Ibrus
 
-Preprint available here: https://osf.io/preprints/socarxiv/g9w4b/
+Paper here in open access: Zemaityte V, Karjus A, Rohn U, Schich M, Ibrus I (2024) Quantifying the global film festival circuit: Networks, diversity, and public value creation. PLOS ONE 19(3): e0297404. https://doi.org/10.1371/journal.pone.0297404
 
 To replicate the analyses and recreate the graphs, follow these steps:
 - Install R (4.2.1 or higher; we recommend using RStudio as the IDE)
